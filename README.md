@@ -1,2 +1,2 @@
-# cse213-s21-lab0
-Lab 0
+# CSE 213 Numerical Analysis - Lab 0
+Change `hello.py` to print `Hello World!` instead of `Hello`.
